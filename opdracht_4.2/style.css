@@ -1,0 +1,46 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2 {
+    color: #0000ff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    color: Teal;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+p {
+    color: #7e7c7c ;
+    border: 2px solid rgb(3, 162, 183);
+    border-radius: 25px;
+    
+}
+
+a {
+    color: #8A2BE2;
+}
+
+Header {
+    font-weight: bold;
+background-image: url(/img/gaming\ foto.jpg);
+background-repeat: repeat-x;
+background-position: center;
+background-size: cover;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 50vw;
+}
