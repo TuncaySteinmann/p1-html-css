@@ -85,3 +85,36 @@ body {
   height: 10vh;   /* Height of the footer */
   background: rgb(0, 247, 53);
  }
+
+
+nav ul li{
+  
+ position: relative;
+  list-style: none;
+  display: inline-block;
+}
+
+nav ul li a{
+  color: blue ;
+  display: block;
+  padding: 0 15px;
+  text-decoration: none;
+  line-height: 60px;
+  font-size:20px ;
+
+}
+
+
+
+nav ul ul{
+
+  position: absolute;
+  top: 60px;
+  display: none;
+  
+}
+nav ul li:hover > ul{
+
+  display: block;
+  
+}
