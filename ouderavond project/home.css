@@ -1,0 +1,73 @@
+*{
+  margin: 0px;
+  padding:  0px;
+  box-sizing: border-box;
+}
+header h1{
+  text-align: center;
+  color: #fff;
+}
+h3{
+  text-align: center;
+  color: #fff;
+}
+header{
+
+border-radius: 5px;
+background-color: #deb887;
+height: 15vh;
+}
+  
+aside {
+
+  border: solid;
+  border-radius : 15px;
+  height: 700px;
+  width: 50vh ;
+  background-color: blanchedalmond;
+  border-color: #fff;
+  border-top: burlywood;
+  line-height: 50px;
+  
+}
+
+a{
+  display: block;
+  color:black ;
+  border-radius: 5px;
+  width: 50vh;
+  text-decoration: none;
+  line-height: 70px;
+  font-size: 20px;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-top: 1px solid rgb(255, 255, 255.1);
+  transition: .4;
+  
+}
+
+aside h2{
+  color: #fff;
+  text-align: center;
+  border: solid;
+  border-radius: 10px;
+  border-color: lightsalmon;
+  background-color: lightsalmon;
+}
+
+ul li:hover a{
+  padding-left: 50px;
+  color: darkblue;
+ 
+}
+
+
+
+body{
+  background-image: url(/img/logo-techniek-college.png);
+  background-repeat: no-repeat;
+ background-position: right;
+ 
+ }
+
+

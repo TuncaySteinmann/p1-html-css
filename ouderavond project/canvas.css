@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+ background-repeat: no-repeat;
+ background-position: right top, left bottom;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: blanchedalmond
+}
+header{
+text-align: center;
+}
+
+nav {
+  height: 100px;
+  border: solid;
+box-sizing: border-box;
+border-color: black;
+background-color: beige;
+border-radius: 10px;
+text-align: center;
+ 
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+li a{
+  float: left;
+}
+
+ a{
+  text-decoration: none;
+  color: black;
+  padding-left: 75px;
+ }
+a:hover{
+  
+  color: lightcoral;
+}
+ .EduarteSection {
+  border: solid;
+  border-radius: 15px;
+  background-color: lightgoldenrodyellow;
+  float: right;
+  position:relative; 
+  bottom: 250px;
+  width: 700px;
+  
+ }
+
+ .CanvasSection {
+  position: relative;
+  top: 130px;
+  border: solid;
+  border-radius: 15px;
+  background-color: lightgoldenrodyellow;
+  float: left;
+  width: 700px;
+ }
+
+ h1{
+  position: relative;
+  right: 30px;
+ }
+ 
+
+
+ .yo{
+ position: relative;
+  top: 235px;
+ right: 510px;
+ width: 500px;
+  height: 480px;
+ }
+
+ .mama{
+  position: relative;
+  left: 60px;
+  top: 190px;
+  width: 700px;
+  }
