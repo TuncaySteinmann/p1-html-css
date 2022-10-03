@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.p1 {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.p2 {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+.p3 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.p4 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
