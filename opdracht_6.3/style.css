@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hoco{
+     display: flex;
+     justify-content: center;
+     
+}
+
+.login{
+    display: flex;
+    justify-content: end;
+}
