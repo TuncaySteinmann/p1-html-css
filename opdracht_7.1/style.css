@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+
+.h1 {
+    background-color:rgb(255, 0, 0);
+color: white;
+}
+
+.T1 {
+background-color: rgb(238, 255, 0);
+height: 200px;
+}
+
+.T2 {
+    background-color:rgb(255, 153, 0);
+    height: 200px;
+}
+
+.T3 {
+    background-color: rgb(0, 255, 106);
+    height: 200px;
+}
+
+@media screen and (max-width: 767px) {
+
+        .h1 {
+            background-color: rgb(0, 94, 255);
+        }
+        .T1 {
+            background-color: rgb(0, 255, 183);
+        }
+        .T2 {
+            background-color: rgb(238, 0, 255);
+        }
+        .T3 {
+            background-color: rgb(30, 0, 255);
+        }}
+
+ @media screen and (min-width: 768px) and (max-width:1023px) {
+            .h1 {
+                background-color: lightcoral;
+            }
+            .T1 {
+                background-color: rgb(250, 82, 191);
+            }
+            .T2 {
+                background-color: rgb(0, 64, 255);
+            }
+            .T3 {
+                background-color: rgb(111, 0, 255);
+            }}
+
+            @media only screen and (max-width:767px) { 
+                .div { 
+                    width:20px;
+                    height:20px;
+                    background-color: rgb(11, 10, 10);
+                    display: flex;
+                    margin-left: auto 
+                  }
+                }
+
+                nav {
+                    background-color: rgb(0, 94, 255);
+                }
+            
+
+
+
+
+
+       
+
+
+ 
+            
