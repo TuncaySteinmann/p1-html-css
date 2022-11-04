@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.Travelly{
+    color: white;
+   padding-left: 3%;
+   padding-top: 1%;
+}
+
+
+
+nav{
+    background-color: #131c27;
+  
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style-type: none;
+    position: relative;
+ bottom: 20px;
+}
+
+a{
+    padding: 10vh;
+    color: white;
+    text-decoration: none;
+    position: relative;
+ }
+
+ .h1travel {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    color: white;
+    font-size: 30px;
+ }
+
+ .h2travel {
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    color: white;
+ }
+
+ .h2travel2 {
+    position: absolute;
+    top: 60%;
+    left: 46%;
+    color: white;
+ }
+
+ .ul1 {
+    position: absolute;
+    top: 75%;
+    left: 46%;
+    cursor: pointer;
+    background-color: #4c6e97;
+    height: 50px;
+ }
+
+ .a1 {
+    position: relative;
+    top: 30%;
+ }
+
+ .h1explore {
+    position: absolute;
+    top: 180%;
+    left: 5%;
+    color: white;
+    text-decoration-line: underline;
+    font-size: 40px;
+ }
+
+ .pexplore {
+    position: absolute;
+    top: 190%;
+    left: 5%;
+    color: white;
+    font-size: 20px;
+ }
+
+.img1 {
+    display:block
+}
+
+ .img2 {
+    background-color: rgb(206, 206, 206);
+    display:block
+ }
+
+ .section3 {
+background-color: #131c27;
+ }
+
+ .h1Ex {
+color: white;
+text-align: center;
+font-size: 45px;
+ }
+ 
+ .p1 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+ }
+
+
+.section4 {
+   background: linear-gradient(to bottom, #131c27 20%, white 50%);
+}
+
